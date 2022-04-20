@@ -10,6 +10,8 @@ This repo contains the code related to the paper "Predicting Team Performance wi
 * Pytorch 1.9
 * torch-geometric-temporal
 
+### Dataset
+To get dataset with different node feature or length, you could run 'file_processing.py'.
 
 ### Usage
 
