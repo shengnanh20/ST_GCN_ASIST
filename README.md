@@ -10,7 +10,7 @@ This repo contains the code related to the paper "Predicting Team Performance wi
 * torch-geometric-temporal
 
 ### Dataset
-To generate player features from the metadata and FoV files, you could run 'file_processing.py'. Also, you could modify the parameters in it to change the length (15 seconds, 30 seconds, 60 seconds) of the input sequence.
+To generate player features from the metadata and FoV files, you could run 'file_processing.py'. Also, you could modify the parameters in it to change the length of the input sequence (15/30/60 seconds).
 
 ### Usage
 
