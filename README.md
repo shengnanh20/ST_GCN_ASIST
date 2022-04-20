@@ -11,12 +11,16 @@ This repo contains the code related to the paper "Predicting Team Performance wi
 * torch-geometric-temporal
 
 
-### Executing program
+### Usage
 
-* python main.py
-*
+To train the proposed model:
+```
+python main.py
+
 ```
 
+To train and test the backbone models:
+```
+python backbones.py
 
-
-
+```
