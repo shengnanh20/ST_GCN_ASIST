@@ -2,7 +2,6 @@
 
 This repo contains the code related to the paper "Predicting Team Performance with Spatial Temporal Graph Convolutional Networks" we submitted to ICPR 2022.
 
-## Getting Started
 
 ### Dependencies
 
