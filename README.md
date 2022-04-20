@@ -15,7 +15,7 @@ To get dataset with different node feature or length, you could run 'file_proces
 
 ### Usage
 
-To train the proposed model:
+To train and test the proposed model:
 ```
 python main.py
 ```
