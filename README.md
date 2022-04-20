@@ -24,3 +24,5 @@ To train and test the backbone models:
 python backbones.py
 
 ```
+### License
+This code is released under the UCF license.
