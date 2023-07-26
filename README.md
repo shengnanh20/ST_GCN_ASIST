@@ -1,6 +1,6 @@
 # Predicting Team Performance with Spatial Temporal Graph Convolutional Networks
 
-This repo contains the code related to the paper "Predicting Team Performance with Spatial Temporal Graph Convolutional Networks" 
+This repo contains the code related to the paper "[Predicting Team Performance with Spatial Temporal Graph Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/9956457)" 
 @ICPR 2022.
 
 
